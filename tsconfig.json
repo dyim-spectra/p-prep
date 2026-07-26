@@ -12,6 +12,6 @@
     "resolveJsonModule": true,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["day1/**/*.ts", "day2/**/*.ts"],
+  "include": ["day1/**/*.ts", "day2/**/*.ts", "day2/live-position-tracker/src/components/Row.tsx", "day2/live-position-tracker/src/components/Table.tsx"],
   "exclude": ["day2/live-position-tracker"]
 }
