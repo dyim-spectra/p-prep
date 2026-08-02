@@ -1,0 +1,9 @@
+Let's sharpen it. Here's the gap in your existing answer: it's true, but it's also true of basically any data company — nothing in it is Palantir-specific, and nothing shows you've actually looked at what the Gotham/Gaia team does day-to-day.
+
+The Gaia "Follow Along" story is useful precisely because it's concrete: a feature that wasn't requested, built as a bet based on real field feedback, first turned on for a single user during a military exercise, and it ended up being the top "tech win" of that event. That's a specific window into the kind of engineering culture you'd be joining — fast, field-driven, close to the actual people using the product.
+
+Try drafting a revised version yourself first — 2-3 sentences, same length as before, but working in something specific to Gotham/Gaia/the Follow Along story (or another detail from the research) instead of the generic "healthcare, government, complex industries" framing. Take a shot, and I'll help sharpen it from there.
+
+
+
+I want to be on a team where I genuinely believe in the mission — Palantir's clients have selected them for a reason, and I want to be in a position to reinforce that choice, not just fulfill it. What makes that real for me is seeing how the Gotham team actually operates — a feature like Gaia's Follow Along mode wasn't something users asked for, it was built as a bet based on field feedback, tested with a single user during a military exercise, and it ended up being the top tech win of that event. That's the kind of environment I want to be part of: close to the people actually using what we build, moving fast on real feedback rather than a roadmap decided far from the field.
