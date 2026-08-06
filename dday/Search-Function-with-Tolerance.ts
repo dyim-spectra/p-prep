@@ -32,22 +32,13 @@ const search = (t: string, q: string, k: number): number[] => {
     let pointer; // pointer for the query array to be compared to the next value
     let pointerLastFound;
 
-    console.log({
-        tArr,
-        qArr
-    })
-
-
     for (let i = 0; i < tArr.length; i++) {
-
-
-
         // if the first word is found, assign a 'potental' candidate and increase the pointer 
         if (tArr[i].toLowerCase() === qArr[0].toLowerCase()) {
             potental = i;
             pointerLastFound = i
             pointer = 1;
-            // if the qArr[pointer]'s value is found 
+            // if the qArr[pointer]'s value is found and has a gap of three 
         } else if (
             typeof potental === 'number' &&
             typeof pointer === 'number' &&
